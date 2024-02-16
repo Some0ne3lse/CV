@@ -1,0 +1,60 @@
+body {
+  background-color: rgb(36, 36, 57);
+  margin: 0%;
+}
+
+img {
+  position: relative;
+  right: 135px;
+  bottom: 9px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  align-items: center;
+  padding: 15px 30px;
+  border-bottom: 3px solid rgb(147, 169, 205);
+}
+
+.imageContainer {
+  height: 150px;
+  width: 150px;
+  border-radius: 75px;
+  overflow: hidden;
+}
+
+.name {
+  margin-bottom: 0px;
+}
+
+.aboutMe {
+  padding-left: 15px;
+  margin-top: 10px;
+}
+
+.previousJobs {
+  padding: 15px 30px;
+}
+
+.individualJob {
+  margin: 50px auto;
+}
+
+.title {
+  color: white;
+  margin-bottom: 0px;
+}
+
+.timeAtWork {
+  margin: 0px;
+  color: rgb(182, 126, 251);
+  font-size: large;
+}
+
+.jobDescription {
+  margin-top: 10px;
+  color: grey;
+  padding-left: 15px;
+}
