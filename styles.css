@@ -8,6 +8,8 @@ img {
   position: relative;
   right: 135px;
   bottom: 9px;
+  width: 300px;
+  height: auto;
 }
 
 .header {
