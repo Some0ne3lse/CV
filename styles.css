@@ -35,6 +35,8 @@ img {
 .aboutMe {
   padding-left: 15px;
   margin-top: 10px;
+  font-size: larger;
+  font-weight: 100;
 }
 
 .previousJobs {
@@ -48,6 +50,7 @@ img {
 .title {
   color: white;
   margin-bottom: 0px;
+  font-size: 25px;
 }
 
 .timeAtWork {
